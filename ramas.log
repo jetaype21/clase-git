@@ -1,0 +1,28 @@
+*   a6f890d volviendo a enviar commit
+|\  
+| * 0ff25c0 agregando estaciones del año
+* | e8bf862 estaciones del año con fecha
+|/  
+*   65ef974 resolviendo este problema
+|\  
+| * 3892456 agregando contenido en html de la rama html
+* | f7869f9 agregando contenido a index.html
+* |   ff75f8e Merge branch 'js'
+|\ \  
+| * | 692e030 creando archivo index.js
+* | |   14437c2 cambios readme.md
+|\ \ \  
+| * | | 7b44325 creando archivo style.css
+| * | | 63364f1 creando archivo style.css
+| | |/  
+| |/|   
+* | | 65412f3 resolviendo conflictos
+|\| | 
+| * | 7137252 creando archivo index.html
+| |/  
+* / e9c8c07 actualizando README.md
+|/  
+* 4ace9b6 creandi licencia del repositorio
+* 8c6dfa1 cambiando titulo en cursiva
+* ab76d73 agregando contenido al markdown
+* cb8574e mi primer commit 😊😊

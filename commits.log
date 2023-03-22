@@ -1,0 +1,112 @@
+commit a6f890d6d49db13966eefa446e997fea4fe700ac
+Merge: e8bf862 0ff25c0
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 15:44:08 2023 -0500
+
+    volviendo a enviar commit
+
+commit e8bf862f05760e3a11dafd410010442a72f2be7a
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:36:09 2023 -0500
+
+    estaciones del año con fecha
+
+commit 0ff25c021dc7ed7ff4dad11c89307a5acb03a141
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:36:09 2023 -0500
+
+    agregando estaciones del año
+
+commit 65ef9744eb233a8962d89124d5acaead2810597e
+Merge: f7869f9 3892456
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:29:14 2023 -0500
+
+    resolviendo este problema
+
+commit 3892456c35cd514743bf78afbae5021403579490
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:23:33 2023 -0500
+
+    agregando contenido en html de la rama html
+
+commit f7869f99708af9b5d1bf88cb2cf7a3393864da26
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:20:53 2023 -0500
+
+    agregando contenido a index.html
+
+commit ff75f8e7d02e708d580eba595794d1816e52f628
+Merge: 14437c2 692e030
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:07:41 2023 -0500
+
+    Merge branch 'js'
+
+commit 14437c2c6f0eb07c895942d6a2713181e9ac86f1
+Merge: 65412f3 7b44325
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 12:06:58 2023 -0500
+
+    cambios readme.md
+
+commit 65412f3de71adfe31db9ee6bf644fc5fc4431d2c
+Merge: e9c8c07 7137252
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:45:03 2023 -0500
+
+    resolviendo conflictos
+
+commit e9c8c07b20ca4ed33b6798fbbb526c468c922334
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:40:07 2023 -0500
+
+    actualizando README.md
+
+commit 7b44325f7edcb3ede1b80c4bdc50fa2ada2e4ccd
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:33:49 2023 -0500
+
+    creando archivo style.css
+
+commit 692e030fa635e88725c4f8f7db89e291d2a94e22
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:29:34 2023 -0500
+
+    creando archivo index.js
+
+commit 63364f176014f2f56722a51c1320be2df259c0aa
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:25:14 2023 -0500
+
+    creando archivo style.css
+
+commit 71372520b29a4e615e321228a8854a9fc73cbaa6
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Wed Mar 22 11:20:55 2023 -0500
+
+    creando archivo index.html
+
+commit 4ace9b6561eafd8763c38a543c495c59d69e64a8
+Author: taypedev <107156051+jetaype21@users.noreply.github.com>
+Date:   Tue Mar 21 15:23:36 2023 -0500
+
+    creandi licencia del repositorio
+
+commit 8c6dfa174e4aa07cbf525de1e2af7eb0338ab342
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Tue Mar 21 15:14:42 2023 -0500
+
+    cambiando titulo en cursiva
+
+commit ab76d73479295b74bdd1669c727bcd8d557449fc
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Tue Mar 21 15:07:17 2023 -0500
+
+    agregando contenido al markdown
+
+commit cb8574e81ec955d57e5cc6ed7b924569ce685a37
+Author: Taype DEV <jetaypedev@gmail.com>
+Date:   Tue Mar 21 15:00:30 2023 -0500
+
+    mi primer commit 😊😊
