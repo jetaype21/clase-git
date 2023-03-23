@@ -61,3 +61,7 @@ Cuando se fusionan ramas se pueden dar 2 resultados diferentes:
 :::
 
     git merge rama-secundaria
+
+## _version 1.0.0_
+
+Esto es un commit par oficializar la version **1.0.0**
